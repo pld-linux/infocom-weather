@@ -1,5 +1,4 @@
 %define		_name		weather
-
 Summary:	Infocom text game - Weather
 Summary(pl):	Tekstówka Infocomu - Weather
 Name:		infocom-weather
@@ -24,7 +23,7 @@ Competition 1995: 1st place.
 
 %description -l pl
 Opuszczaj±c piknik wpad³e¶ nagle w burzê na prowincji. Musisz uchroniæ
-od zniszczena most.
+od zniszczenia most.
 
 Skrajnie liniowa gra.
 
