@@ -20,7 +20,15 @@ storm. You must protect a bridge from being destroyed.
 
 An ultra-linear game.
 
-Competition 1995: 1st place
+Competition 1995: 1st place.
+
+%description -l pl
+Opuszczaj±c piknik wpad³e¶ nagle w burzê na prowincji. Musisz uchroniæ
+od zniszczena most.
+
+Skrajnie liniowa gra.
+
+Konkurs 1995: pierwsze miejsce.
 
 %prep
 
