@@ -1,6 +1,6 @@
 %define		_name		weather
 Summary:	Infocom text game - Weather
-Summary(pl):	Tekstówka Infocomu - Weather
+Summary(pl.UTF-8):   TekstÃ³wka Infocomu - Weather
 Name:		infocom-weather
 Version:	960613
 Release:	2
@@ -21,8 +21,8 @@ An ultra-linear game.
 
 Competition 1995: 1st place.
 
-%description -l pl
-Opuszczaj±c piknik wpad³e¶ nagle w burzê na prowincji. Musisz uchroniæ
+%description -l pl.UTF-8
+OpuszczajÄ…c piknik wpadÅ‚eÅ› nagle w burzÄ™ na prowincji. Musisz uchroniÄ‡
 od zniszczenia most.
 
 Skrajnie liniowa gra.
