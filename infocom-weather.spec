@@ -1,6 +1,6 @@
 %define		_name		weather
 Summary:	Infocom text game - Weather
-Summary(pl.UTF-8):   Tekstówka Infocomu - Weather
+Summary(pl.UTF-8):	Tekstówka Infocomu - Weather
 Name:		infocom-weather
 Version:	960613
 Release:	2
